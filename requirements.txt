@@ -19,12 +19,6 @@ seaborn==0.12.2
 six==1.16.0
 sklearn==0.0
 sqlparse==0.4.3
-tensorboard==2.13.0
-tensorboard-data-server==0.7.1
-tensorflow==2.13.0
-tensorflow-estimator==2.13.0
-tensorflow-intel==2.13.0
-tensorflow-io-gcs-filesystem==0.31.0
 tzdata==2022.7
 yahoo-fin==0.8.9.1
 zipp==3.8.1
