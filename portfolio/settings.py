@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-s+7d8nf$&d$8(4+c_$7pthd9dp7x^v_8xt4!4o%ztg6n#7rzq2
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['colab.research.google.com', 'localhost']
+ALLOWED_HOSTS = ['colab.research.google.com', 'localhost','.vercel.app']
 
 
 # Application definition
