@@ -2,8 +2,5 @@ asgiref==3.6.0
 Django==4.1.6
 django-cors-headers==4.3.1
 djangorestframework==3.14.0
-matplotlib==3.7.2
 mpl-finance==0.10.1
-pandas==1.4.4
-seaborn==0.12.2
 yahoo-fin==0.8.9.1
