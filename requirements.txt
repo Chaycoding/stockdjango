@@ -1,6 +1,1 @@
-asgiref==3.6.0
-Django==4.1.6
-django-cors-headers==4.3.1
-djangorestframework==3.14.0
-mpl-finance==0.10.1
-yahoo-fin==0.8.9.1
+
